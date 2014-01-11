@@ -1,4 +1,4 @@
-facebook-indifference
+Facebook Indifference
 =====================
 
-Taking the like out of Facebook
+A Chrome extension that disables the Like functionality on Facebook.
