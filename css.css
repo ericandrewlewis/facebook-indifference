@@ -1,0 +1,7 @@
+.UFILikeLink,
+.UFILikeSentence,
+.UFICommentLikeButton,
+.UFIBlingBoxLikeIcon,
+.UFIBlingBoxLikeIcon + span {
+	display: none !important;
+}
